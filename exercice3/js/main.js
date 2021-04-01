@@ -1,5 +1,5 @@
 $("div").show(function(){
-    $("#text").animate({
+    $("#text").css({
         fontSize: '50px'
     });
 });

@@ -1,5 +1,5 @@
 $("div").show(function(){
-    $("#square").animate({
+    $("#square").css({
         height: '500px',
         width: '500px'
     })
